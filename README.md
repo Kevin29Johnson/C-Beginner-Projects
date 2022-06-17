@@ -1,2 +1,2 @@
-# C-Beginner-Projects
+# C#-Beginner-Projects
 C# beginner level practice projects
